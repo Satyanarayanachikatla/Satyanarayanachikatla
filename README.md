@@ -1,27 +1,27 @@
 # Hi, I'm Satyanarayana Chikatla 👋
 
-### M.Tech CSE Student | Python Developer | Aspiring Software Engineer
+### M.Tech CSE Student | Aspiring Software Engineer | Python Developer | Data Analytics Enthusiast
 
 Welcome to my GitHub profile!
 
-I'm a Computer Science student passionate about programming,
-problem-solving, and developing practical software applications.
+I'm a Computer Science student passionate about programming, problem-solving, data analysis, and building practical software applications. I enjoy learning new technologies and improving my skills through hands-on practice..
 
 ## 👨‍💻 About Me
 
 - 🎓 Pursuing M.Tech in Computer Science (2025–2027)
 - 💻 Interested in Python Development and Software Engineering
+- 📊 Exploring Data Science and Data Analytics
 - 🧠 Practicing Data Structures and Algorithms
-- 🗄️ Working with MySQL and Django
+- 🗄️ Working with MySQL and learning database concepts
 - 🏢 11 months of IT Trainee Executive experience
+- ☁️ Learning AWS Cloud fundamentals and preparing for AWS Certified Cloud Practitioner (CLF-C02)
 - 🚀 Focused on learning through practical projects
 
 ## 🛠️ Technical Skills
 
-- **Programming:** Python
+- **Programming:** Python,Java
 - **Problem Solving:** Data Structures and Algorithms
 - **Database:** MySQL
-- **Framework:** Django
 - **Web Technologies:** HTML, CSS
 - **Tools:** Git, GitHub
 
@@ -37,14 +37,24 @@ problem-solving, and developing practical software applications.
 
 - Advanced Python
 - Data Structures and Algorithms
+- Data Science and Data Analytics
 - SQL and Database Management
-- Software Development
+- AWS Cloud Computing
+- Software Development Practices
+  
+##☁️ Certifications & Learning
+
+- Preparing for AWS Certified Cloud Practitioner (CLF-C02) examination.
+- Exploring cloud computing concepts and AWS services.
 
 ## 🎯 Career Goal
 
-To become a skilled Software Engineer by building
-real-world applications and continuously improving
-my technical and problem-solving abilities.
+- Python Developer
+- Software Engineer
+- Data Analyst
+- Data Science
+
+My goal is to build strong technical foundations, develop real-world projects, and grow as a technology professional.
 
 ---
 
