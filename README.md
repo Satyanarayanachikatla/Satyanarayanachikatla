@@ -42,7 +42,7 @@ I'm a Computer Science student passionate about programming, problem-solving, da
 - AWS Cloud Computing
 - Software Development Practices
   
-##☁️ Certifications & Learning
+☁️ Certifications & Learning
 
 - Preparing for AWS Certified Cloud Practitioner (CLF-C02) examination.
 - Exploring cloud computing concepts and AWS services.
